@@ -1,0 +1,3 @@
+0 piedra
+1 papel
+2 tijera
